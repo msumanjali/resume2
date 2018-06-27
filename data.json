@@ -1,0 +1,53 @@
+{
+  "basics":{
+    "name":"sumanjali",
+    "email":"anjalisumacse@gmail.com",
+    "mobile":"+91-8179788739"
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "education":[
+    {
+      "degree":"B-Tech",
+      "institute":"PSCMR",
+      "Data":["2014-18","65%"]
+    },
+    {
+      "degree":"intermediate",
+      "institute":"K.B.N",
+      "Data":["2013-15","66%"]
+    },
+    {
+      "degree":"S.S.C",
+      "institute":"S.D.M.Y.R.R high school",
+      "Data":["2012-2013","78%"]
+    }
+  ],
+  "achievements":[
+    {
+      "name":"awareded as <b>1<sup>st</sup>prize</b> in <q> self-defence</q>"
+    },
+    {
+      "name":"got <strong>1<sup>st</sup>prize</strong> for <q> PPT presentation</q>"
+    }
+  ],
+  "technicalskills":[
+    {
+      "name":"programming languages",
+      "data":["c","java","javaScript","Python","C++","PHP","HTML"]
+    },
+    {
+      "name":"Database",
+      "data":["mysql","Oracle"]
+    },
+    {
+      "name":"Web technologies",
+      "data":["HTML","CSS","javascript"]
+    },
+    {
+      "name":"Libraries and Frameworks",
+      "data":["jQuery","codeIgniter"]
+    }
+  ]
+}
